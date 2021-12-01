@@ -1,0 +1,21 @@
+{
+  "name": "nab",
+  "version": "1.0.0",
+  "description": "Node.js api boilerplate",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randotm/node-api-boilerplate.git"
+  },
+  "author": "Rando Tomingas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/randotm/node-api-boilerplate/issues"
+  },
+  "homepage": "https://github.com/randotm/node-api-boilerplate#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
